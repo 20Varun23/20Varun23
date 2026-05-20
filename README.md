@@ -1,22 +1,27 @@
 <h1 align="center"> Hi guys 👋, I'm Varun</br> 
 </h1>
 
-<center>
+<p align="center">
 I'm a Information Technology student and aspiring software engineer with a strong interest in full-stack development, backend engineering, and distributed systems.
-</center>
-<center>
+</p>
+
+<div align="center">
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() 
 
-</center>
-<center>
+</div>
+
+<div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=20Varun23&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=20Varun23&theme=rose_pine&hide_border=true)
 <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=20Varun23&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
+
+<div align="center">
 Here are some of the technologies and technologies I work with
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -31,4 +36,4 @@ Here are some of the technologies and technologies I work with
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-</center>
+</div>
